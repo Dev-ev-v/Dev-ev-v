@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm a Brazilian Developer 🇧🇷
 
-<!--
-**Dev-ev-v/Dev-ev-v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend-focused developer passionate about Python, system logic and understanding how things work internally.
 
-Here are some ideas to get you started:
+## About me
+- Currently studying APIs and SQL databases
+- Improving UI structure and project organization
+- Interested in clean architecture, performance and readable code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Experience
+1+ year building systems and mechanics in Roblox Studio, including:
+- Construction systems
+- Pathfinding logic
+- Physics-based mechanics
+- Game systems and scripting
+
+## Projects
+- Python Uno Game — CLI card game focused on logic implementation
+- File Encryption System — Bash-based encryption workflow using rclone
+
+## Technical mindset
+I like building systems from scratch, understanding internal behavior and optimizing logic.
+
+## Currently working on
+Developing stronger backend skills and building well-structured projects.
+
+## Contact
+- [Roblox: ](https://roblox.com/users/5368985701/profile)
