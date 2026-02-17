@@ -1,5 +1,6 @@
-# Hi, I'm a Brazilian Developer 🇧🇷
+# Hi, there👋
 
+## I'm a Brazilian Developer 🇧🇷
 Backend-focused developer passionate about Python, system logic and understanding how things work internally.
 
 ## About me
@@ -25,4 +26,7 @@ I like building systems from scratch, understanding internal behavior and optimi
 Developing stronger backend skills and building well-structured projects.
 
 ## Contact
-- [Roblox: ](https://roblox.com/users/5368985701/profile)
+- [Roblox profile](https://roblox.com/users/5368985701/profile)
+- [Roblox group](https://www.roblox.com/share/g/35937551)
+
+  Learn from your mistakes and become a better person.
