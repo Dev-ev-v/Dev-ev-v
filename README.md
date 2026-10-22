@@ -16,6 +16,7 @@ Designed for private, lightweight note-taking, it includes tags, a trash system,
 I'm working toward future improvements, including backup options and stronger data security.
 
 ### PMP
+[pmp](https://github.com/Dev-ev-v/pmp)
 
 A lightweight, cross-platform music player for the terminal, built with Python and powered by mpv.
 
